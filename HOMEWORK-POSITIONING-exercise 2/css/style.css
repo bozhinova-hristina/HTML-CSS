@@ -1,0 +1,245 @@
+section {
+ position: relative;
+ width: 1000px;
+}
+
+.one {
+ position: absolute;
+ background-color: #e5eeeb;
+ width: 20%;
+ height: 50px;
+ border-left: 0px;
+ border-top: 0px;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+}
+
+.two {
+ position: absolute;
+ background-color: #fbfde7;
+ width: 7%;
+ height: 200px;
+ border-left: 0px;
+ border-top: 20px solid black;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ top: 50px;
+}
+
+.three {
+ position: absolute;
+ background-color: #e1eae5;
+ width: 7%;
+ height: 600px;
+ border-left: 0px;
+ border-top: 20px solid black;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ top: 200px;
+}
+
+.four {
+ position: absolute;
+ background-color: #f4c65a;
+ width: 7%;
+ height: 150px;
+ border-left: 0px;
+ border-top: 20px solid black;
+ border-right: 20px solid black;
+ border-bottom: 0;
+ top: 700px;
+}
+
+.five {
+ position: absolute;
+ background-color: #f2e7d5;
+ width: 40%;
+ height: 50px;
+ border-left: 0px;
+ border-top: 0;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ border-left: 20px solid black;
+ left: 20%;
+}
+
+.six {
+ position: absolute;
+ background-color: #d62d24;
+ width: 53%;
+ height: 500px;
+ border-top: 20px solid black;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ left: 9%;
+ top: 50px;
+}
+
+.seven {
+ position: absolute;
+ background-color: #130409;
+ width: 26%;
+ height: 150px;
+ border-top: 20px solid black;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ left: 9%;
+ top: 590px;
+}
+
+.eight {
+ position: absolute;
+ background-color: #e3ded9;
+ width: 26%;
+ height: 120px;
+ border-right: 20px solid black;
+ border-bottom: 0px;
+ left: 9%;
+ top: 750px;
+}
+
+.nine {
+ position: absolute;
+ background-color: #c0bfba;
+ width: 26%;
+ height: 70px;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ border-left: 20px solid black;
+ left: 34%;
+ top: 590px;
+}
+
+.ten {
+ position: absolute;
+ background-color: #dee2d4;
+ width: 26%;
+ height: 60px;
+ border-top: 20px solid black;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ border-left: 20px solid black;
+ left: 34%;
+ top: 650px;
+}
+
+.eleven {
+ position: absolute;
+ background-color: #130409;
+ width: 26%;
+ height: 35px;
+ border-top: 20px solid black;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ left: 36%;
+ top: 730px;
+}
+
+.twelve {
+ position: absolute;
+ background-color: #e0e0df;
+ width: 57%;
+ height: 50px;
+ border-top: 20px solid black;
+ border-right: 20px solid black;
+ border-bottom: 0px;
+ border-left: 20px solid black;
+ left: 36%;
+ top: 800px;
+}
+
+.thirteen {
+ position: absolute;
+ background-color: #f2c968;
+ width: 30%;
+ height: 50px;
+ border-top: 0px;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ border-left: 20px solid black;
+ top: 0;
+ left: 63%;
+}
+
+.fourteen {
+ position: absolute;
+ background-color: #f2c968;
+ width: 30%;
+ height: 250px;
+ border-top: 20px solid black;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ border-left: 20px solid black;
+ top: 50px;
+ left: 63%;
+}
+
+.fifteen {
+ position: absolute;
+ background-color: #dfe5d0;
+ width: 15%;
+ height: 230px;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ border-left: 20px solid black;
+ top: 340px;
+ left: 63%;
+}
+
+.sixteen {
+ position: absolute;
+ background-color: #f2eee2;
+ width: 14%;
+ height: 230px;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ border-left: 20px solid black;
+ top: 340px;
+ left: 79%;
+}
+
+.seventeen {
+ position: absolute;
+ background-color: #d6dee0;
+ width: 30%;
+ height: 70px;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ border-left: 20px solid black;
+ top: 590px;
+ left: 63%;
+}
+
+.eighteen {
+ position: absolute;
+ background-color: #241785;
+ width: 30%;
+ height: 120px;
+ border-top: 20px solid black;
+ border-right: 20px solid black;
+ border-bottom: 20px solid black;
+ border-left: 20px solid black;
+ top: 650px;
+ left: 63%;
+}
+
+.nineteen {
+ position: absolute;
+ background-color: #fcfde7;
+ width: 5%;
+ height: 700px;
+ border-bottom: 20px solid black;
+ border-left: 20px solid black;
+ top: 0px;
+ left: 95%;
+}
+
+.twenty {
+ position: absolute;
+ background-color: #d73630;
+ width: 5%;
+ height: 150px;
+ border-left: 20px solid black;
+ top: 720px;
+ left: 95%;
+}
